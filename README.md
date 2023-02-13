@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmet Bilici ====================================================================================================================================  Software Developer ------------------  I've been coding for 4+ years. I am senior Computer Science student at University of Texas at San Antonio. I've worked on Mobile App Development (Android & IOS), Web Development and Software Development.  * 🌍  I'm based in Texas * ✉️  You can contact me at [1yigitbilici@gmail.com](mailto:1yigitbilici@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmet Bilici ====================================================================================================================================  
+
+Software Developer
+------------------  
+I am senior Computer Science student at University of Texas at San Antonio. I've worked on Mobile App Development (Android & IOS), Web Development and Software Development.  * 🌍  I'm based in Texas * ✉️  You can contact me at [1yigitbilici@gmail.com](mailto:1yigitbilici@gmail.com)
 
 ### Skills  
 
