@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------  
-I am senior Computer Science student at University of Texas at San Antonio. I've worked on Mobile App Development (Android & IOS), Web Development and Software Development.  
+I am senior Computer Science student at University of Texas at San Antonio. My work scope are; Mobile App Development (Android & IOS), Web Development and Software Development.  
 * 🌍  I'm based in Texas 
 * ✉️  You can contact me at [1yigitbilici@gmail.com](mailto:1yigitbilici@gmail.com)
 
