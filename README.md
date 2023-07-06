@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------  
 
-I am senior Computer Science student at University of Texas at San Antonio. I've worked on Web Development, Software Development, and Mobile App Development (Android & IOS),  
+I am recent Computer Science grad from University of Texas at San Antonio. I've worked on Web Development, Software Development, and Mobile App Development (Android & IOS),  
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [1yigitbilici@gmail.com](mailto:1yigitbilici@gmail.com) 
 <!-- * 🧠  I'm learning Node.js and Express -->
